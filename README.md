@@ -1,5 +1,9 @@
 # Breaking Bad Series Cast Information with ReactJS
 
+The project use Breaking Bad API from https://breakingbadapi.com and use React Hooks (useState, useEffect) and axios to build project.
+
+![Breaking Bad](./breaking_bad_project.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
